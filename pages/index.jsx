@@ -15,8 +15,7 @@ export default function Home() {
           <h5>Selamat datang,</h5>
           <h1 className="font-bold">Adinda</h1>
         </div>
-        <div className="w-8 md:w-10 md:h-10 h-8 bg-white border-2 rounded-md border-sky-800">
-        </div>
+        <div className="w-8 md:w-10 md:h-10 h-8 bg-white border-2 rounded-md border-sky-800"></div>
       </header>
       <div>
         <Search />
