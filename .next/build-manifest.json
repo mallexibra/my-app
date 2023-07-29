@@ -27,10 +27,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/contact.js"
     ],
-    "/contact/add": [
+    "/contact/scan": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/contact/add.js"
+      "static/chunks/pages/contact/scan.js"
     ]
   },
   "ampFirstPages": []

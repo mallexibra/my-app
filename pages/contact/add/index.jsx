@@ -73,6 +73,12 @@ const AddContact = () => {
               <option value="client">client</option>
             </select>
           </label>
+          <button
+            className="bg-sky-600 p-2 rounded-md font-semibold"
+            type="submit"
+          >
+            Add Contact
+          </button>
         </form>
       </div>
     </main>
